@@ -63,3 +63,25 @@ A Full Stack Web Developer
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Zenerproton/Django-Crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zenerproton&repo=Django-Crud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Zenerproton/Crud" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zenerproton&repo=Crud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+# 📊 GitHub Stats:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=header"/>
+
+![3D Profile](profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) --->
+<!--
+<div align="center">  
+  <img width="100%" height="300px" src="https://readmestats.999857.xyz/api/top-langs/?username=Zenerproton&count_private=true&hide_border=true&title_color=9be8a9&text_color=9be8a9&bg_color=0d1117" />
+</div> -->
+<p>
+    <img width=49.6% src="https://readmestats.999857.xyz/api?username=Zenerproton&show_icons=true&theme=gotham" />
+    <img width=49.6% src="https://github-readme-streak-stats.herokuapp.com/?user=Zenerproton&theme=gotham" />
+</p> 
+
+[![Zener's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zenerproton&bg_color=0d1117&color=9be8a9&line=9be8a9&point=9be8a9&area=true&hide_border=true)](https://github.com/Zenerproton/github-readme-activity-graph)
+
+![snake gif](https://github.com/Zenerproton/Zenerproton/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9be8a9&height=80&section=footer"/>
+
